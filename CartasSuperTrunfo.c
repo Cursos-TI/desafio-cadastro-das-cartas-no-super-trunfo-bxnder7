@@ -19,8 +19,11 @@ int main(){
     float pib2 = 24.5;
     int pontosTuristicos2 = 40;
 
+    //Título do projeto
+    printf("Desafio Super Trunfo Cidades!\n");
+
     // Leitura da Carta 1
-    printf("Digite os dados da Carta 1:\n");
+    printf("\nDigite os dados da Carta 1:\n");
     printf("Estado (Letra de A a H): ");
     scanf(" %c", &estado1);
 
